@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WheatherApp</string>
+    <string name="start_date">Start Date:</string>
+    <string name="end_date">End Date:</string>
+    <string name="duration">Duration:</string>
+    <string name="postfix_second">sec</string>
+    <string name="postfix_seconds">secs</string>
+    <string name="postfix_minutes">mins</string>
+    <string name="postfix_minute">min</string>
+    <string name="postfix_hour">hr</string>
+    <string name="postfix_hours">hrs</string>
+    <string name="postfix_day">day</string>
+    <string name="postfix_days">days</string>
+    <string name="postfix_years">years</string>
+
+    <string name="link_base_weather_url">https://api.weather.gov/</string>
+    <string name="link_img_url">https://picsum.photos/id/%1d/%2d/%3d</string>
+
+    <string name="generic_error">Something went wrong. Please retry.</string>
+</resources>
